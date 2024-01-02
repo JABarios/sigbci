@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sigbci"
+version = "0.1.0"
+description = "Software for analysis of EEG in BCI experiments"
+authors = ["J. Barios <juan.barios@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
