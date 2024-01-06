@@ -1,4 +1,3 @@
 def load():
-    print('Preparando fsj');
-    
-
+    # sigbci.setup.util.read_ini("ss","vv")
+    print("Preparando fsj")
